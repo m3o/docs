@@ -89,4 +89,4 @@ If you'd like to cancel your subscription please email [support@m3o.com](mailto:
 
 ## Support
 
-If you're a paying customer you can join #m3o-support on [slack](https://slack.m3o.com) or email [support@m3o.com](mailto:support@m3o.com). Otherwise you can join #m3o-platform for general discussions around each environment.
+If you're a paying customer you can join #support on [slack](https://slack.m3o.com) or email [support@m3o.com](mailto:support@m3o.com). Otherwise you can join #m3o-platform for general discussions around each environment.
