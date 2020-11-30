@@ -7,25 +7,19 @@ parent: Get Started
 ---
 # Publics APIs
 
-M3O makes your services available via a public http/json API.
+The Micro Platform makes your services available via a public http/json API.
 
 Query and access your services in the following ways.
 
 ## URL
 
-The public APIs for M3O
+The public APIs for the Platform
 
-#### Dev environment
+#### API URL
 api.m3o.dev
 
-#### Platform environment
-api.m3o.com
-
-#### Your services on Dev
+#### Your Namespace
 $namespace.m3o.dev
-
-#### Your services on Platform
-$namespace.m3o.app
 
 ## Namespace
 
@@ -110,8 +104,6 @@ For example to route to the helloworld service in the foobar namespace you would
 ```
 curl https://foobar.m3o.dev/helloworld
 ```
-
-In the `platform` environment customer URLs are served on the domain `*m3o.app`.
 
 ## Authorization
 

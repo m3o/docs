@@ -8,7 +8,7 @@ parent: Get Started
 
 # Using Private Repos
 
-M3O supports private repos by passing your git credentials securely to our runtime as secrets. To enable private 
+The Micro Platform supports private repos by passing your git credentials securely to our runtime as secrets. To enable private 
 repos simply store your credentials locally with the following command.
 
 ```

@@ -7,7 +7,7 @@ parent: Get Started
 ---
 # Invite Users
 
-Here we outline how to invite other users to the M3O platform, share namespaces and collaborate.
+Here we outline how to invite other users to the Micro Platform, share namespaces and collaborate.
 
 ## Invite to the Platform
 

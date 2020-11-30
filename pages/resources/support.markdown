@@ -12,6 +12,6 @@ permalink: /resources/support
 
 # Support
 
-Get support for the [M3O](https://m3o.com) platform at **#support** on [slack](https://slack.m3o.com).
+Get support for the [Micro Platform](https://m3o.com) at **#support** on [slack](https://slack.m3o.com).
 
 Otherwise you can email us at [support@m3o.com](mailto:support@m3o.com)

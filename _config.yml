@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: M3O Docs
+title: Micro Docs
 email: support@micro.mu
 description: >- # this means to ignore newlines until "baseurl:"
-  M3O Docs site - getting started, docs, tutorials and more.
+  Micro Docs site - getting started, docs, tutorials and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: m3ocloud
@@ -46,7 +46,7 @@ include:
 color_scheme: m3o
 
 # Just the docs configs, see https://pmarsceill.github.io/just-the-docs/docs/configuration/ 
-logo: "/assets/images/logo.png"
+#logo: "/assets/images/logo.png"
 search_enabled: true
 heading_anchors: true
 # Enable support for hyphenated search words:

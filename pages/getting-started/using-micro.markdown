@@ -7,7 +7,7 @@ parent: Get Started
 ---
 # Using Micro
 
-Micro is an open source platform for API and Go services development.
+Micro is an open source platform for API driven development.
 
 ## Learn Micro
 

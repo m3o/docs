@@ -7,7 +7,7 @@ parent: Get Started
 ---
 # Create Services
 
-M3O is Micro as a Service. Use the open source tools to build your services and deploy to the platform.
+Here's a quick guide to getting up and running writing new services locally and on the Platform.
 
 ## Deps
 

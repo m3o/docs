@@ -23,18 +23,18 @@ micro billing portal
 
 ## Pricing
 
-The Platform environment is priced at $35/user/month. We separately provide a free Dev environment which you can read about below.
+The Micro Platform is free for developers. Our Business plan is charged at $45/user/month which provdes additional resources and support.
 
 ## Additional Users
 
-You can invite up to 5 additional users on the platform. Every additional user added to your account is billed at $35/month. 
-Whether you invite them or just plain create the account we'll keep track and invoice this as "M3O Additonal Users" on your invoices. See 
+You can invite up to 5 additional users on the platform. Every additional user added to your account is billed at $45/month. 
+Whether you invite them or just plain create the account we'll keep track and invoice this as "Micro Platform Additonal Users" on your invoices. See 
 [Get Started > Invite Users](/getting-started/invite-users) to see how to invite them.
 
 ## Additional Services
 
 Beyond 10 services, we bill every additional service at $5/month. Additional service meaning anything with a new unique name
-e.g users, customers, orders. We'll add a line item on your invoice called "M3O Additional Services" automatically.
+e.g users, customers, orders. We'll add a line item on your invoice called "M3O Platform Additional Services" automatically.
 
 ## Changing Your Password
 
@@ -44,9 +44,10 @@ Use the following command to change password (you must already be logged in):
 micro user set password
 ```
 
-## Dev Environment
+## Developer plan
 
-The Dev environment is a free tier hosted by us as a best effort service. It's a place for hobbyists and side projects. 
+The Developer plan is a free tier of the Micro Platform for small teams and individuals.
+
 To signup and login see the following.
 
 ```
@@ -60,24 +61,24 @@ micro signup
 micro login 
 ```
 
-The Dev env is also subject to fair usage. There are no SLAs or support. The quota is capped at 1 core and 1GB total resources.
+The free plan is also subject to fair usage. There are no SLAs or support. The quota is capped at 1 core and 1GB total resources.
 
 ## Fair Usage Policy
 
 Our fair usage policy applies caps to usage on a per namespace basis. This is so we can maintain a shared system 
 for everyone to use in coordination and have a great experience. The limits are below but may change, vary or include new resource types.
 
-### Dev
+### Developer
 
-The per namespace limits of the Dev environment
+The per namespace limits of the free plan
 
 - CPU - 1 core
 - Memory - 1 Gb
 - Disk - 10 Gb
 
-### Platform
+### Business
 
-The per namespace limits of the Platform environment
+The per namespace limits of the paid plan
 
 - CPU - 2 cores
 - Memory - 2 Gb
@@ -89,4 +90,4 @@ If you'd like to cancel your subscription please email [support@m3o.com](mailto:
 
 ## Support
 
-If you're a paying customer you can join #support on [slack](https://slack.m3o.com) or email [support@m3o.com](mailto:support@m3o.com). Otherwise you can join #m3o-platform for general discussions around each environment.
+If you're a paying customer you can join #support on [slack](https://slack.m3o.com) or email [support@m3o.com](mailto:support@m3o.com). Otherwise you can join #platform for general discussions around each environment.
