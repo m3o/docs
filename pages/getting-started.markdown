@@ -10,9 +10,9 @@ has_children: true
 {: .no_toc }
 
 {: .fs-6 .fw-300 }
-The fast guide to using the Micro Platform
+The Micro Platform is a free for developers
 
-Visit [m3o.com/start](https://m3o.com/start) to get started in minutes.
+Visit [m3o.com/start](https://m3o.com/start) for the helloworld quickstart.
 
 ## Usage
 
@@ -37,7 +37,7 @@ micro signup
 
 See [m3o.com/start](https://m3o.com/start) for the rest of the guide.
 
-## Paid Tier
+## Paid Plan
 
 Dev is an environment for free usage. It's great for small projects and individual devs but if you want 
 to run a scalable production ready service or product you'll want to use the Micro Platform business plan. 
