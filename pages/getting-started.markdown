@@ -10,7 +10,7 @@ has_children: true
 {: .no_toc }
 
 {: .fs-6 .fw-300 }
-The Micro Platform is a free for developers
+The Micro Platform is free for developers
 
 Visit [m3o.com/start](https://m3o.com/start) for the helloworld quickstart.
 
