@@ -14,7 +14,7 @@ Learn the ins and outs of Micro and become a Micro services ninja!
 
 [Micro](https://micro.mu) is an open source framework for API driven development.
 
-[Micro Platform](https://m3o.com) is Micro hosted as a service.
+The [Micro Platform](https://m3o.com) is Micro hosted as a service.
 
 
 ## Overview
@@ -65,6 +65,8 @@ service to service using gRPC makes sense, but at the end of the day we want to 
 ## Learn More
 
 Learn more about the Micro platform in the [Concepts](/concepts) section or [Get Started](/getting-started).
+
+For the open source docs see [micro.mu](https://micro.mu).
 
 <br />
 
