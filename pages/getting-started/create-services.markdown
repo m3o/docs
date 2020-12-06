@@ -76,8 +76,8 @@ git remote add origin https://github.com/$user/helloworld.git
 # push it
 git push origin master
 
-# set the env to dev
-micro env set dev
+# set the env to platform
+micro env set platform
 
 # ensure you've already logged in otherwise
 micro login

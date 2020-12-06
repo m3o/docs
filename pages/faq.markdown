@@ -51,8 +51,8 @@ The Developer plan is a free tier of the Micro Platform for small teams and indi
 To signup and login see the following.
 
 ```
-# set the dev env
-micro env set dev
+# set the platform env
+micro env set platform
 
 # signup for free
 micro signup

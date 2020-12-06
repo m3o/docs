@@ -23,10 +23,10 @@ Install Micro to build, run and manage services locally or on the Micro Platform
 curl -fsSL https://install.m3o.com/micro | /bin/bash
 ```
 
-Set your environment to 'dev' for the free environment.
+Set your environment to 'platform' for the free environment.
 
 ```
-micro env set dev
+micro env set platform
 ```
 
 Signup and follow the instructions

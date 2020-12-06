@@ -64,7 +64,7 @@ So how do you access it?
 
 Micro has the concept of environments or an "env" built in. These are basically different hosted Micro servers 
 you can switch between to do development and run Micro services. Local is your local server running on "127.0.0.1:8081". 
-Dev is the free hosted Micro Platform environment in the cloud.
+Platform is the hosted Micro Platform environment in the cloud.
 
 You can swap between the platform and local like so
 
@@ -73,7 +73,7 @@ You can swap between the platform and local like so
 micro env set local
 
 # hosted environment
-micro env set dev
+micro env set platform
 ```
 
 ### Services
