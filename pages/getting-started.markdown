@@ -39,7 +39,7 @@ See [m3o.com/start](https://m3o.com/start) for the rest of the guide.
 
 ## Paid Plan
 
-Dev is an environment for free usage. It's great for small projects and individual devs but if you want 
+The platform provides a free Developer plan. It's great for small teams and individual devs but if you want 
 to run a scalable production ready service or product you'll want to use the Micro Platform business plan. 
 We'll provide higher resource limits and more scalable infrastructure along with support and SLAs.
 
