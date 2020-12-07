@@ -106,7 +106,7 @@ and then we charge for additional services you use that are separate to the plat
 
 ### Additional Users
 
-Every additional user added to your platform account is billed at $35/month. Whether you invite them or just plain create the 
+Every additional user added to your platform account is billed at $45/month. Whether you invite them or just plain create the 
 account we'll keep track and invoice this as "M3O Platform Additonal Users" on your invoices.
 
 ### Additional Services
