@@ -16,17 +16,17 @@ Query and access your services in the following ways.
 The public APIs for the Platform
 
 #### API URL
-api.m3o.dev
+api.m3o.com
 
-#### Your Namespace
+#### Your Services
 $namespace.m3o.dev
 
-## Namespace
+## Namespaces
 
-Namespace is a unique namespace provided only to you and your collaborators.
+Namespaces are a unique isolated space provided for you and your collaborators.
 
 ```
-# get user namespace
+# get your namespace
 micro user namespace
 ```
 
@@ -39,7 +39,7 @@ Most of our core services are locked down so you'll need to use an API token to 
 MICRO_API_TOKEN=`micro user token`
 
 # curl the api
-curl -H "Authorization: Bearer $MICRO_API_TOKEN" https://api.m3o.dev/
+curl -H "Authorization: Bearer $MICRO_API_TOKEN" https://api.m3o.com/
 ```
 
 You should see below or thereabouts
@@ -59,17 +59,17 @@ We do this very simply in the manner shown below.
 
 ```
 # Call helloworld service with Helloworld.Call endpoint
-https://api.m3o.dev/helloworld/call
+https://api.m3o.com/helloworld/call
 
 # Call hellworld service with Greeting.Message endpoint
-https://api.m3o.dev/helloworld/greeting/message
+https://api.m3o.com/helloworld/greeting/message
 ```
 
 As you can see if an endpoint matches the service name we can collapse the path so there's no redundancy. 
 We additionally map the Call endpoint much like index.html for the web so that you can simply do
 
 ```
-https://api.m3o.dev/helloworld
+https://api.m3o.com/helloworld
 ```
 
 A convenient hack just like the web.
@@ -88,7 +88,7 @@ NAMESPACE=`micro user namespace`
 Then simply set as the header in your call
 
 ```
-curl -H "Micro-Namespace: $NAMESPACE" https://api.m3o.dev/helloworld
+curl -H "Micro-Namespace: $NAMESPACE" https://api.m3o.com/helloworld
 ```
 
 This will route to your helloworld service as opposed to someone else's!

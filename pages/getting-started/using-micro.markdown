@@ -7,7 +7,7 @@ parent: Get Started
 ---
 # Using Micro
 
-Micro is an open source platform for API driven development.
+Micro is an open source platform for API driven services development.
 
 ## Learn Micro
 
@@ -18,11 +18,12 @@ To learn about [Micro](https://github.com/micro/micro) head to the open source w
 The core services available to you are
 
 - Authentication
-- Service Discovery
-- RPC Communication
-- Dynamic Config
+- Configuration Management
 - Event Streaming
+- gRPC Communication
 - Key Value Storage
+- PubSub Messaging
+- Service Discovery
 - Runtime Management
 
 We'll walk through these in more depth in the [Concepts](/concepts) section but basically its the OSS 

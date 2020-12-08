@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Create Services
+title: New Service
 nav_order: 1
-permalink: /getting-started/create-services
+permalink: /getting-started/new-service
 parent: Get Started
 ---
-# Create Services
+# New Service
 
 Here's a quick guide to getting up and running writing new services locally and on the Platform.
 

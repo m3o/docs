@@ -4,7 +4,7 @@ title: Platform
 keywords: concepts, platform, m3o
 tags: [concepts, platform, m3o]
 permalink: /concepts/platform
-summary: A cloud native platform built for developers
+summary: A fully managed Micro services cloud platform
 nav_order: 1
 parent: Concepts
 toc_list: true
@@ -14,7 +14,7 @@ toc_list: true
 # Platform
 
 
-The [**Micro Platform**](https://m3o.com) is a cloud platform for API driven development.
+The [**Micro Platform**](https://m3o.com) is a fully managed cloud platform for Micro services.
 
 ## Overview
 

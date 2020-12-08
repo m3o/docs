@@ -4,7 +4,7 @@ title: Framework
 keywords: concepts, framework, runtime, server
 tags: [concepts, framework, runtime, server]
 permalink: /concepts/framework
-summary: A framework for cloud native development
+summary: A framework for API services development
 nav_order: 1
 parent: Concepts
 toc_list: true
@@ -13,7 +13,7 @@ toc_list: true
 
 # Framework
 
-[Micro](https://micro.mu) is a framework for cloud native development.
+[Micro](https://micro.mu) is a framework for API driven services development.
 
 ## Overview
 
