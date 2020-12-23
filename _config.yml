@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Micro Docs site - getting started, docs, tutorials and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: m3ocloud
+twitter_username: m3oservices
 github_username:  m3o
 footer_content: "Copyright &copy; 2020 Micro Services, Inc."
 ga_tracking: UA-70478210-5
